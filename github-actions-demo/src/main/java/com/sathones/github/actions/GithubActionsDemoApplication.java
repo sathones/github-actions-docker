@@ -11,7 +11,7 @@ public class GithubActionsDemoApplication {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome to sathones learnings!!!!";
+		return "Welcome to sathones learnings!!!";
 	}
 
 	public static void main(String[] args) {
